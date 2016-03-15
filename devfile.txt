@@ -1,1 +1,2 @@
 change file in dev branch.
+I am coding in dev now.But there is a bug called 101 to fix.I have to use command to stash.
